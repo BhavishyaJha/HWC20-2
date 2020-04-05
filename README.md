@@ -1,2 +1,2 @@
-# HWC20-2
-homework C20 no. 2
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
